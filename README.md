@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @jordan-na
+- 👀 I’m interested in ...
+Web development (MEAN stack), data structures and algorithms, problem solving, java, python, machine learning
+- 🌱 I’m currently learning ...
+Java, data structures and algorithms, git, discrete math/linear algebra and its applications in computer science
+- 💞️ I’m looking to collaborate on ...
+Nothing yet, but hopefully soon! (still a first year CS student who wants to get a grasp on the fundamentals)
+- 📫 How to reach me ...
+jna104@uottawa.ca
+<!---
+jordan-na/jordan-na is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
