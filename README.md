@@ -6,7 +6,7 @@ Java, data structures and algorithms, git, discrete math/linear algebra and its 
 - 💞️ I’m looking to collaborate on ...
 Nothing yet, but hopefully soon! (still a first year CS student who wants to get a grasp on the fundamentals)
 - 📫 How to reach me ...
-jna104@uottawa.ca
+jordster02@gmail.com
 <!---
 jordan-na/jordan-na is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
