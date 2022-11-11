@@ -1,13 +1,17 @@
-- 👋 Hi, I’m @jordan-na
-- 👀 I’m interested in ...
-Web development (MEAN stack), data structures and algorithms, problem solving, java, python, machine learning
-- 🌱 I’m currently learning ...
-Java, data structures and algorithms, git, discrete math/linear algebra and its applications in computer science
-- 💞️ I’m looking to collaborate on ...
-Nothing yet, but hopefully soon! (still a first year CS student who wants to get a grasp on the fundamentals)
-- 📫 How to reach me ...
-jordster02@gmail.com
-<!---
-jordan-na/jordan-na is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="./jordan_na_github_banner.svg" style="width: 100%">
+
+<p align="center">
+  <img src="./typing.svg">
+</p>
+
+
+<h2>Hey there! 👋</h2>
+
+I'm Jordan, a second year Computer Science student at the University of Ottawa who's current main focus is front end web development. I make responsive web apps that are aesthetically pleasing and contains features that many people would use. 
+
+I am currently open for an internship or jon opportunity, here is my <a href="https://github.com/jordan-na/jordan-na">resume</a>
+
+Want to know more about me ? Check out my <a href="https://github.com/jordan-na/jordan-na">portfolio</a>
+
+
+<h2>📌 Pinned Repositories</h2>
