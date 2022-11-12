@@ -20,4 +20,14 @@ Want to know more about me ? Check out my <a href="https://github.com/jordan-na/
 
 <h2>📌 Pinned Repositories</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan-na&repo=task-manager)](https://github.com/anuraghazra/task-manager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan-na&repo=task-manager)](https://github.com/jordan-na/task-manager)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan-na&repo=trivia-quiz)](https://github.com/jordan-na/trivia-quiz)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan-na&repo=rock-paper-scissors-spock-lizard)](https://github.com/jordan-na/rock-paper-scissors-spock-lizard)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan-na&repo=space-tourism)](https://github.com/jordan-na/space-tourism)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan-na&repo=tic-tac-toe)](https://github.com/jordan-na/tic-tac-toe)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan-na&repo=country-search-api)](https://github.com/jordan-na/country-search-api)
