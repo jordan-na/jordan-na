@@ -18,7 +18,7 @@ Want to know more about me ? Check out my <a href="https://github.com/jordan-na/
 <img src="./Outlook.svg">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./LinkedIN.svg">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Discord.svg">
 
 
-<h2>📌 Pinned Repositories</h2>
+<h2>Pinned Repositories 📌</h2>
 
 <p>
   <a href="https://github.com/jordan-na/task-manager">
@@ -53,7 +53,7 @@ Want to know more about me ? Check out my <a href="https://github.com/jordan-na/
   </a>
 </p>
 
-<h2>📈 GitHub Stats</h2>
+<h2>GitHub Stats 📈</h2>
 
 <p>
   <a href="https://github.com/jordan-na">
@@ -66,7 +66,6 @@ Want to know more about me ? Check out my <a href="https://github.com/jordan-na/
   </a>
 </p>
 
-<h2>Skills </h2>
-
+<h2 class="vertical-align">Skills <img src="./code-icon.svg" style="width: 31px"></h2>
 
 
