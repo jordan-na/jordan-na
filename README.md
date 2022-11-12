@@ -15,7 +15,15 @@ Want to know more about me ? Check out my <a href="https://github.com/jordan-na/
 
 <h2>Connect With Me 🔗</h2>
 
-<img src="./Outlook.svg">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./LinkedIN.svg">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Discord.svg">
+<a href="mailto: jna104@uottawa.ca">
+  <img src="./Outlook.svg">
+<a/>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto: jna104@uottawa.ca">
+  <img src="./LinkedIN.svg">
+<a/>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="discordapp.com/users/1040830132144848906">
+  <img src="./Discord.svg">
+<a/>
 
 
 <h2>Pinned Repositories 📌</h2>
