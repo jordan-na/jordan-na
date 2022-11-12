@@ -66,6 +66,6 @@ Want to know more about me ? Check out my <a href="https://github.com/jordan-na/
   </a>
 </p>
 
-<h2 class="vertical-align">Skills <img src="./code-icon.svg" style="width: 31px"></h2>
+<h2> Skills 💻</h2>
 
 
