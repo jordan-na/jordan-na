@@ -127,6 +127,10 @@ Want to know more about me ? Check out my <a href="https://github.com/jordan-na/
 &nbsp;
 ![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=570000)
 
+<h2>Coding makes me feel...</h2>
+
+<img src="./coding.gif">
+
 
 
 
