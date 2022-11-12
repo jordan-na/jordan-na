@@ -33,7 +33,7 @@ Want to know more about me ? Check out my <a href="https://github.com/jordan-na/
 </a>
 
 <a href="https://github.com/jordan-na/space-tourism">
-  <img src="./repo=space-tourism.svg">
+  <img src="./space-tourism.svg">
 </a>
 
 <a href="https://github.com/jordan-na/tic-tac-toe">
