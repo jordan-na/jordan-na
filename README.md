@@ -7,7 +7,7 @@
 
 <h2>Hey there! 👋</h2>
 
-I'm Jordan, a second year Computer Science student at the University of Ottawa who's current main focus is front end web development. I make responsive web apps that are aesthetically pleasing and contains features that many people would use. 
+I'm Jordan, a second year Computer Science student at the University of Ottawa who's current main focus is front end web development. I am constantly learning and practicing my skills by creating applications that are responsive, fast, and practical.
 
 I am currently open for an internship or jon opportunity, here is my <a href="https://github.com/jordan-na/jordan-na">resume</a>
 
