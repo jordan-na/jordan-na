@@ -89,6 +89,12 @@ Want to know more about me ? Check out my <a href="https://github.com/jordan-na/
 <br>
 <br>
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Context-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-State-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+<br>
+<br>
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 
 
 
