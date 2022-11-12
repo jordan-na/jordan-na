@@ -69,15 +69,22 @@ Want to know more about me ? Check out my <a href="https://github.com/jordan-na/
 <h2> Skills 💻</h2>
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
+&nbsp;
 ![](https://img.shields.io/badge/Code-Promises-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
+&nbsp;
 ![](https://img.shields.io/badge/Code-AJAX-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
+&nbsp;
 ![](https://img.shields.io/badge/Code-Async/Await-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
 <br>
 <br>
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+&nbsp;
 ![](https://img.shields.io/badge/Code-Flexbox-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+&nbsp;
 ![](https://img.shields.io/badge/Code-Grid-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+&nbsp;
 ![](https://img.shields.io/badge/Code-Media_Queries-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+&nbsp;
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 <br>
 <br>
