@@ -21,7 +21,7 @@ Want to know more about me ? Check out my <a href="https://github.com/jordan-na/
 <a href="mailto: jna104@uottawa.ca">
   <img src="./LinkedIN.svg">
 <a/>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="discordapp.com/users/1040830132144848906">
+<a href="https://discordapp.com/users/1040830132144848906">
   <img src="./Discord.svg">
 <a/>
 
