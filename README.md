@@ -13,5 +13,8 @@ I am currently open for an internship or jon opportunity, here is my <a href="ht
 
 Want to know more about me ? Check out my <a href="https://github.com/jordan-na/jordan-na">portfolio</a>
 
+<h2>Connect With Me 🔗</h2>
+
+
 
 <h2>📌 Pinned Repositories</h2>
