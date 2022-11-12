@@ -20,26 +20,52 @@ Want to know more about me ? Check out my <a href="https://github.com/jordan-na/
 
 <h2>📌 Pinned Repositories</h2>
 
-<a href="https://github.com/jordan-na/task-manager">
-  <img src="./task-manager.svg">
-</a>
+<p>
+  <a href="https://github.com/jordan-na/task-manager">
+    <img src="./task-manager.svg">
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href="https://github.com/jordan-na/trivia-quiz">
+    <img src="./trivia-quiz.svg">
+  </a>
+</p>
 
-<a href="https://github.com/jordan-na/trivia-quiz">
-  <img src="./trivia-quiz.svg">
-</a>
+<p>
+  <a href="https://github.com/jordan-na/rock-paper-scissors-spock-lizard">
+    <img src="rock-paper-scissors-spock-lizard.svg">
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href="https://github.com/jordan-na/space-tourism">
+    <img src="./space-tourism.svg">
+  </a>
+</p>
 
-<a href="https://github.com/jordan-na/rock-paper-scissors-spock-lizard">
-  <img src="rock-paper-scissors-spock-lizard.svg">
-</a>
+<p>
+  <a href="https://github.com/jordan-na/tic-tac-toe">
+    <img src="./tic-tac-toe.svg">
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href="https://github.com/jordan-na/country-search-api">
+    <img src="./country-search-api.svg">
+  </a>
+</p>
 
-<a href="https://github.com/jordan-na/space-tourism">
-  <img src="./space-tourism.svg">
-</a>
+<h2>📈 GitHub Stats</h2>
 
-<a href="https://github.com/jordan-na/tic-tac-toe">
-  <img src="./tic-tac-toe.svg">
-</a>
+<p>
+  <a href="https://github.com/jordan-na">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordan-na"/>
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href="https://github.com/jordan-na">
+    <img src="https://github-readme-stats.vercel.app/api?username=jordan-na&show_icons=true"/>
+  </a>
+</p>
 
-<a href="https://github.com/jordan-na/country-search-api">
-  <img src="./country-search-api.svg">
-</a>
+
+
+
