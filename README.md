@@ -22,34 +22,34 @@ Want to know more about me ? Check out my <a href="https://github.com/jordan-na/
 
 <p>
   <a href="https://github.com/jordan-na/task-manager">
-    <img src="./task-manager.svg">
+    <img src="./task-manager.svg" style="width: 350px">
   </a>
   &nbsp;
   &nbsp;
   <a href="https://github.com/jordan-na/trivia-quiz">
-    <img src="./trivia-quiz.svg">
+    <img src="./trivia-quiz.svg" style="width: 350px">
   </a>
 </p>
 
 <p>
   <a href="https://github.com/jordan-na/rock-paper-scissors-spock-lizard">
-    <img src="rock-paper-scissors-spock-lizard.svg">
+    <img src="rock-paper-scissors-spock-lizard.svg" style="width: 350px">
   </a>
   &nbsp;
   &nbsp;
   <a href="https://github.com/jordan-na/space-tourism">
-    <img src="./space-tourism.svg">
+    <img src="./space-tourism.svg" style="width: 350px">
   </a>
 </p>
 
 <p>
   <a href="https://github.com/jordan-na/tic-tac-toe">
-    <img src="./tic-tac-toe.svg">
+    <img src="./tic-tac-toe.svg" style="width: 350px">
   </a>
   &nbsp;
   &nbsp;
   <a href="https://github.com/jordan-na/country-search-api">
-    <img src="./country-search-api.svg">
+    <img src="./country-search-api.svg" style="width: 350px">
   </a>
 </p>
 
