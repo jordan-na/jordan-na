@@ -25,21 +25,21 @@ Want to know more about me ? Check out my <a href="https://github.com/jordan-na/
 </a>
 
 <a href="https://github.com/jordan-na/trivia-quiz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jordan-na&repo=trivia-quiz">
+  <img src="./trivia-quiz.svg">
 </a>
 
 <a href="https://github.com/jordan-na/rock-paper-scissors-spock-lizard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jordan-na&repo=rock-paper-scissors-spock-lizard">
+  <img src="rock-paper-scissors-spock-lizard.svg">
 </a>
 
 <a href="https://github.com/jordan-na/space-tourism">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jordan-na&repo=space-tourism">
+  <img src="./repo=space-tourismsvg">
 </a>
 
 <a href="https://github.com/jordan-na/tic-tac-toe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jordan-na&repo=tic-tac-toe">
+  <img src="./tic-tac-toe.svg">
 </a>
 
 <a href="https://github.com/jordan-na/country-search-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jordan-na&repo=country-search-api">
+  <img src="./country-search-api.svg">
 </a>
