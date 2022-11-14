@@ -18,7 +18,7 @@ Want to know more about me ? Check out my <a href="https://github.com/jordan-na/
 <a href="mailto: jna104@uottawa.ca">
   <img src="./Outlook.svg">
 <a/>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jordan-na-155022257/">
+<a href="https://www.linkedin.com/in/jordan-na/">
   <img src="./LinkedIN.svg">
 <a/>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discordapp.com/users/1040830132144848906">
