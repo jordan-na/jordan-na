@@ -29,13 +29,13 @@ Want to know more about me ? Check out my <a href="https://github.com/jordan-na/
 <h2>Pinned Repositories 📌</h2>
 
 <p>
-  <a href="https://github.com/jordan-na/task-manager">
-    <img src="./task-manager.svg" style="width: 350px">
+  <a href="https://github.com/jordan-na/path-finding-visualizer">
+    <img src="./path-finding-visualizer.svg" style="width: 350px">
   </a>
   &nbsp;
   &nbsp;
-  <a href="https://github.com/jordan-na/path-finding-visualizer">
-    <img src="./path-finding-visualizer.svg" style="width: 350px">
+  <a href="https://github.com/jordan-na/task-manager">
+    <img src="./task-manager.svg" style="width: 350px">
   </a>
 </p>
 
