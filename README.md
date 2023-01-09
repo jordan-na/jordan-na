@@ -35,7 +35,7 @@ Want to know more about me ? Check out my <a href="https://github.com/jordan-na/
   &nbsp;
   &nbsp;
   <a href="https://github.com/jordan-na/task-manager">
-    <img src="./task-manager.svg" style="width: 350px">
+    <img src="./task-manager.svg" style="width: 350px; height: 122.5px">
   </a>
 </p>
 
