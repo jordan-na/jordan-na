@@ -34,30 +34,30 @@ Want to know more about me ? Check out my <a href="https://github.com/jordan-na/
   </a>
   &nbsp;
   &nbsp;
-  <a href="https://github.com/jordan-na/trivia-quiz">
-    <img src="./trivia-quiz.svg" style="width: 350px">
+  <a href="https://github.com/jordan-na/path-finding-visualizer">
+    <img src="./path-finding-visualizer.svg" style="width: 350px">
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/jordan-na/rock-paper-scissors-spock-lizard">
-    <img src="rock-paper-scissors-spock-lizard.svg" style="width: 350px">
+  <a href="https://github.com/jordan-na/trivia-quiz">
+    <img src="./trivia-quiz.svg" style="width: 350px">
   </a>
   &nbsp;
   &nbsp;
-  <a href="https://github.com/jordan-na/space-tourism">
-    <img src="./space-tourism.svg" style="width: 350px">
+  <a href="https://github.com/jordan-na/rock-paper-scissors-spock-lizard">
+    <img src="rock-paper-scissors-spock-lizard.svg" style="width: 350px">
   </a>
 </p>
   
 <p>
-  <a href="https://github.com/jordan-na/tic-tac-toe">
-    <img src="./tic-tac-toe.svg" style="width: 350px">
+  <a href="https://github.com/jordan-na/space-tourism">
+    <img src="./space-tourism.svg" style="width: 350px">
   </a>
   &nbsp;
   &nbsp;
-  <a href="https://github.com/jordan-na/country-search-api">
-    <img src="./country-search-api.svg" style="width: 350px">
+  <a href="https://github.com/jordan-na/tic-tac-toe">
+    <img src="./tic-tac-toe.svg" style="width: 350px">
   </a>
 </p>
 
