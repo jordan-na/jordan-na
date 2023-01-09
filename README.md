@@ -27,17 +27,6 @@ Want to know more about me ? Check out my <a href="https://github.com/jordan-na/
 
 
 <h2>Pinned Repositories 📌</h2>
-  
- <p>
-  <a href="https://github.com/jordan-na/tic-tac-toe">
-    <img src="./tic-tac-toe.svg" style="width: 350px">
-  </a>
-  &nbsp;
-  &nbsp;
-  <a href="https://github.com/jordan-na/country-search-api">
-    <img src="./country-search-api.svg" style="width: 350px">
-  </a>
-</p>
 
 <p>
   <a href="https://github.com/jordan-na/task-manager">
@@ -58,6 +47,17 @@ Want to know more about me ? Check out my <a href="https://github.com/jordan-na/
   &nbsp;
   <a href="https://github.com/jordan-na/space-tourism">
     <img src="./space-tourism.svg" style="width: 350px">
+  </a>
+</p>
+  
+<p>
+  <a href="https://github.com/jordan-na/tic-tac-toe">
+    <img src="./tic-tac-toe.svg" style="width: 350px">
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href="https://github.com/jordan-na/country-search-api">
+    <img src="./country-search-api.svg" style="width: 350px">
   </a>
 </p>
 
