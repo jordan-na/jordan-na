@@ -30,30 +30,30 @@ I'm Jordan, a third year Computer Science student at the University of Ottawa. I
   </a>
   &nbsp;
   &nbsp;
-  <a href="https://github.com/jordan-na/task-manager">
-    <img src="./task-manager.svg" style="width: 350px">
+  <a href="https://github.com/jordan-na/hotel-manager">
+    <img src="./hotel-manager.svg" style="width: 350px">
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/jordan-na/trivia-quiz">
-    <img src="./trivia-quiz.svg" style="width: 350px">
+  <a href="https://github.com/jordan-na/task-manager">
+    <img src="./task-manager.svg" style="width: 350px">
   </a>
   &nbsp;
   &nbsp;
-  <a href="https://github.com/jordan-na/rock-paper-scissors-spock-lizard">
-    <img src="rock-paper-scissors-spock-lizard.svg" style="width: 350px">
+  <a href="https://github.com/jordan-na/trivia-quiz">
+    <img src="trivia-quiz.svg" style="width: 350px">
   </a>
 </p>
   
 <p>
-  <a href="https://github.com/jordan-na/space-tourism">
-    <img src="./space-tourism.svg" style="width: 350px">
+  <a href="https://github.com/jordan-na/rock-paper-scissors-spock-lizard">
+    <img src="rock-paper-scissors-spock-lizard.svg" style="width: 350px">
   </a>
   &nbsp;
   &nbsp;
-  <a href="https://github.com/jordan-na/tic-tac-toe">
-    <img src="./tic-tac-toe.svg" style="width: 350px">
+  <a href="https://github.com/jordan-na/space-tourism">
+    <img src="./space-tourism.svg" style="width: 350px">
   </a>
 </p>
 
