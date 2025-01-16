@@ -7,7 +7,7 @@
 
 <h2>Hey there! 👋</h2>
 
-I'm Jordan, a third year Computer Science student at the University of Ottawa. I am constantly learning and practicing my skills by creating applications that are responsive, fast, and practical.
+I'm Jordan, a fourth year Computer Science student at the University of Ottawa. I am constantly learning and practicing my skills by creating applications that are responsive, fast, and practical.
 
 <h2>Connect With Me 🔗</h2>
 
